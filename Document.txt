@@ -1,2 +1,6 @@
 Creació nou document de text
+
 Modificació desde master
+
+Modificació desde branch1
+
